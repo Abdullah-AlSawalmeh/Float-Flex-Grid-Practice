@@ -1,0 +1,116 @@
+@media screen and (min-width: 480px) and (max-width: 767px) {
+  .b {
+    height: 150px;
+    width: 480px;
+    line-height: 150px;
+    float: left;
+  }
+
+  .c {
+    height: 125px;
+    width: 480px;
+    line-height: 125px;
+    float: left;
+  }
+  .d {
+    height: 125px;
+    width: 480px;
+    line-height: 125px;
+    float: left;
+  }
+
+  .ef_container {
+    overflow: hidden;
+    width: 480px;
+    float: left;
+  }
+  .e {
+    height: 250px;
+    width: 50%;
+    float: left;
+    line-height: 240px;
+  }
+  .f {
+    height: 250px;
+    width: 50%;
+    float: left;
+    line-height: 240px;
+  }
+
+  .gh_container {
+    overflow: hidden;
+    width: 480px;
+    float: left;
+  }
+  .g {
+    height: 250px;
+    width: 50%;
+    float: left;
+    line-height: 240px;
+  }
+  .h {
+    height: 250px;
+    width: 50%;
+    float: left;
+    line-height: 240px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+  .b {
+    height: 600px;
+    width: 20.73333%;
+    line-height: 600px;
+    float: left;
+  }
+  .other {
+    height: 600px;
+    width: 79.177777%;
+    float: left;
+  }
+  .cd_container {
+    width: 100%;
+    float: left;
+  }
+  .c {
+    height: 200px;
+    min-width: 50%;
+    line-height: 200px;
+    float: left;
+  }
+  .d {
+    height: 200px;
+    min-width: 50%;
+    line-height: 200px;
+    float: left;
+  }
+  .efgh_container {
+    width: 100%;
+    float: left;
+  }
+  .e {
+    height: 250px;
+    min-width: 25%;
+    float: left;
+    line-height: 250px;
+  }
+  .f {
+    height: 250px;
+    min-width: 25%;
+    float: left;
+    line-height: 250px;
+  }
+
+  .g {
+    height: 250px;
+    min-width: 25%;
+    float: left;
+    line-height: 250px;
+  }
+  .h {
+    height: 250px;
+    min-width: 25%;
+    float: left;
+    line-height: 250px;
+  }
+}
