@@ -1,4 +1,4 @@
-@media (min-width: 480px) and (max-width: 767px) {
+@media (min-width: 1px) and (max-width: 767px) {
   header {
     grid-column: span 2;
   }
