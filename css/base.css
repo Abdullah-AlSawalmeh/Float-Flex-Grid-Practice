@@ -7,3 +7,9 @@
 .div_border {
   border: 1px solid black;
 }
+
+.flex_center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
