@@ -4,6 +4,7 @@
   font-weight: bold;
   position: relative;
   display: grid;
+  max-width: 480px;
   margin-top: 60px;
   margin-bottom: 20px;
   margin-left: auto;
@@ -20,7 +21,7 @@
 @media (min-width: 1px) and (max-width: 767px) {
   .container {
     width: fit-content;
-    grid-template-columns: 240px 240px;
+    grid-template-columns: 1fr 1fr;
     grid-template-rows: 75px 150px 125px 125px 250px 250px 80px;
   }
   .container::before {
